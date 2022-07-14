@@ -1,6 +1,6 @@
-# Nextar
+# Rangka
 
-Nextar is a [Next.js](https://nextjs.org/) repository bootstrapped with battery pack included 🔋
+Rangka is a [Next.js](https://nextjs.org/) repository bootstrapped with battery pack included 🔋
 
 ## Battery Pack Included
 - Eslint and Prettier to find, fix and format your code
