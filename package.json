@@ -16,9 +16,9 @@
     "rp:release": "release-please github-release --token=$GITHUB_PERSONAL_PUBLIC_TOKEN --repo-url=$(git config --get remote.origin.url)"
   },
   "dependencies": {
-    "next": "12.1.5",
-    "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "next": "13.0.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
     "@babel/preset-react": "^7.17.12",
@@ -31,7 +31,7 @@
     "@types/react-dom": "^18.0.6",
     "@typescript-eslint/eslint-plugin": "^5.30.5",
     "eslint": "^8.15.0",
-    "eslint-config-next": "^12.2.0",
+    "eslint-config-next": "^13.0.3",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
     "husky": "^8.0.0",

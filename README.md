@@ -8,6 +8,14 @@ Rangka is a [Next.js](https://nextjs.org/) repository bootstrapped with battery 
 - Husky and Lint-staged to ensure your code is checked before they are commited
 - Conventional Commitlint to check your commit-message follow the same convention
 - Module path aliases to simplify the way you import your modules
+- Release-please to automate your versioning and releasing your projects 
+
+## Version and Release
+Before using the `release-please` package, add `GITHUB_PERSONAL_PUBLIC_TOKEN` variable to your environment shell
+```
+export GITHUB_PERSONAL_PUBLIC_TOKEN=<your_gh_personal_access_token>
+```
+
 
 ## Reference
 1. [Next.js](https://nextjs.org/)
@@ -19,3 +27,4 @@ Rangka is a [Next.js](https://nextjs.org/) repository bootstrapped with battery 
 7. [Lint-staged](https://github.com/okonet/lint-staged#readme)
 8. [Commitlint](https://commitlint.js.org/#/)
 9. [Conventional-commit](https://www.conventionalcommits.org/en/v1.0.0/)
+10. [Release-please](https://github.com/googleapis/release-please)
